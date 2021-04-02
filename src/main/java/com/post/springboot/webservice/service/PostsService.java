@@ -2,6 +2,8 @@ package com.post.springboot.webservice.service;
 
 import com.post.springboot.webservice.domain.posts.Posts;
 import com.post.springboot.webservice.domain.posts.PostsRepository;
+import com.post.springboot.webservice.web.dto.PostsListResponseDto;
+import com.post.springboot.webservice.web.dto.PostsResponseDto;
 import com.post.springboot.webservice.web.dto.PostsSaveRequestDto;
 
 import com.post.springboot.webservice.web.dto.PostsUpdateRequestDto;
